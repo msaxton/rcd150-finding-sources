@@ -54,3 +54,19 @@ Using Google wisely
 micah.saxton@tufts.edu
 <br>
 <a href = "https://tischlibrary.tufts.edu/" target_="blank">Chat with a librarian</a>
+
+
+## Review
+1. Find the right database(s) for you.
+2. Combine keywords and subject terms in your searches.
+3. Consult reference sources.
+4. Use Google, but use it wisely.
+5. Ask a librarian.
+
+
+## Practice
+1. Browse the databases listed on the [RCD guide](https://researchguides.library.tufts.edu/rcd/) or the [library homepage](https://tischlibrary.tufts.edu/).
+2. Choose one or two databases of interest and write down why you chose those databases.
+3. Search within the database using keywords of interest to you. Combine with subject terms as appropriate.
+4. Take notes on what database(s) you searched and what terms you used.
+5. Save the articles or books which will be useful for you.
